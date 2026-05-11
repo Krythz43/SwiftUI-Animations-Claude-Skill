@@ -1,0 +1,44 @@
+# --- Skill development artifacts (not part of the shippable skill) ---
+# Eval benchmark runs, gradings, viewer output, description-optimization results
+swiftui-animator-workspace/
+
+# Eval prompts + test fixture .swift files — dev/QA only, not needed at runtime
+swiftui-animator/evals/
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# --- Xcode / Swift (test fixtures are .swift) ---
+DerivedData/
+build/
+.build/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.swiftpm/
+
+# --- Python (skill-creator tooling leaves these around) ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Misc ---
+*.log
+.env
+.env.local

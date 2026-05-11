@@ -1,0 +1,15 @@
+# If you version just this skill directory to share/install it, the evals are
+# dev/QA infrastructure — not needed by anyone consuming the skill.
+evals/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Misc
+*.log

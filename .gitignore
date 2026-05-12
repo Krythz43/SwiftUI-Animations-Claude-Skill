@@ -3,7 +3,7 @@
 swiftui-animator-workspace/
 
 # Eval prompts + test fixture .swift files — dev/QA only, not needed at runtime
-swiftui-animator/evals/
+skills/swiftui-animator/evals/
 
 # --- macOS ---
 .DS_Store

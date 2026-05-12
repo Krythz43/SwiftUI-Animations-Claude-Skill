@@ -1,0 +1,41 @@
+{
+  "name": "swiftui-animator-skill",
+  "version": "1.0.1",
+  "description": "A Claude Code agent skill that adds native SwiftUI animations — micro-interactions, view transitions, loading states, gesture-driven motion, hero animations, SF Symbol effects, and haptics — to iOS, macOS, watchOS, and visionOS views.",
+  "keywords": [
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "agent-skill",
+    "swiftui",
+    "swift",
+    "ios",
+    "animation",
+    "macos",
+    "watchos",
+    "visionos"
+  ],
+  "homepage": "https://github.com/Krythz43/SwiftUI-Animations-Claude-Skill#readme",
+  "bugs": {
+    "url": "https://github.com/Krythz43/SwiftUI-Animations-Claude-Skill/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krythz43/SwiftUI-Animations-Claude-Skill.git"
+  },
+  "license": "MIT",
+  "author": "Krythz43",
+  "type": "commonjs",
+  "bin": {
+    "swiftui-animator-skill": "bin/cli.js"
+  },
+  "files": [
+    "bin/cli.js",
+    ".claude-plugin/plugin.json",
+    "skills/swiftui-animator/SKILL.md",
+    "skills/swiftui-animator/references/*.md"
+  ],
+  "engines": {
+    "node": ">=16.7.0"
+  }
+}

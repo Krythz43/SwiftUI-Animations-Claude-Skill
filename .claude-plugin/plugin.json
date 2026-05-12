@@ -1,0 +1,12 @@
+{
+  "name": "swiftui-animator",
+  "description": "Add native SwiftUI animations to iOS, macOS, watchOS, and visionOS views — micro-interactions, view transitions, loading states, gesture-driven motion, hero animations, SF Symbol effects, and haptics. Native SwiftUI only, gated by your deployment target, no third-party libraries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Krythz43"
+  },
+  "homepage": "https://github.com/Krythz43/SwiftUI-Animations-Claude-Skill",
+  "repository": "https://github.com/Krythz43/SwiftUI-Animations-Claude-Skill",
+  "license": "MIT",
+  "keywords": ["swiftui", "swift", "ios", "macos", "watchos", "visionos", "animation"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "krythz-skills",
+  "owner": {
+    "name": "Krythz43"
+  },
+  "metadata": {
+    "description": "SwiftUI motion & animation tooling for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "swiftui-animator",
+      "source": ".",
+      "description": "Add native SwiftUI animations — micro-interactions, view transitions, loading states, gesture-driven motion, hero animations, SF Symbol effects, and haptics — to iOS, macOS, watchOS, and visionOS views.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Krythz43"
+      },
+      "homepage": "https://github.com/Krythz43/SwiftUI-Animations-Claude-Skill",
+      "license": "MIT",
+      "keywords": ["swiftui", "swift", "ios", "animation"]
+    }
+  ]
+}
